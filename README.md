@@ -24,8 +24,8 @@ A production-ready, scalable backend boilerplate using **TypeScript**, **Express
 - Git
 
 ```bash
-git clone https://github.com/your-username/backend-starter.git
-cd backend-starter
+git clone https://github.com/Humayun1318/Backend-starter-pack-for-MERN.git
+cd Backend-starter-pack-for-MERN
 npm install
 
 ```
